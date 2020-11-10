@@ -35,7 +35,7 @@
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
 [![Twitter: aman09072000](https://img.shields.io/twitter/follow/aman09072000?style=social)](https://twitter.com/aman09072000)
-[![Linkedin: aman-gupta](https://img.shields.io/badge/-aman-gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-gupta-396867156/)](https://www.linkedin.com/in/imthepk/)
+[![Linkedin: aman-gupta-396867156 ](https://img.shields.io/badge/-aman-gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-gupta-396867156/)](https://www.linkedin.com/in/imthepk/)
 [![GitHub Aman09072000](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/Aman09072000)
 
 
