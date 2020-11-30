@@ -1,6 +1,6 @@
 ## Hola, I'm [Aman Gupta!](https://www.linkedin.com/in/aman-gupta-396867156/) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aman09072000&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aman09072000&label=Views&color=blue&style=plastic" alt="aman09072000" /> </p>
 
 <a href="https://twitter.com/aman09072000">  
   <img align="left" alt="Aman's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
