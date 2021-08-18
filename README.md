@@ -26,9 +26,8 @@
 
 
 - 🔭 I’m currently student in [SAGE University](https://sageuniversity.in/).
-- 🌱 I’m currently learning more about Android.
+- 🌱 I’m Expert in DSA and Intermediate in CP .
 - 👯 I’m looking to collaborate in [Github]
-- 🤔 I’m looking for help with Data Science documentation.
 - 💬 Ask me about Java or any tech related stuff.
 - 📫 How to reach me: [Gmail - aman09072000@gmail.com]
 - 😄 Pronouns: He/His
